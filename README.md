@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there my name is Aden!! 👋
+## adennewemail@gmail.com
+## Just a normal github account lol that's named after my bunny
+## Created a repository about myself
+## Downloaded the desktop app, logged into my account and copied the respitory from the internet and here we are.
 <!--
 **truenigtron/truenigtron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
